@@ -1,0 +1,30 @@
+/*selectior{
+	property= value
+}*/
+
+* {
+	text-decoration: none;
+}
+body {
+	background-image: url(kidschool.jpg);
+	background-size: cover;
+}
+
+p,li,form {
+	font-family: Comic Sans ms;
+	font-size: 20px;
+	text-align: justify;
+	word-spacing: 3px;
+	line-height: 30px;
+}
+
+ul {
+	list-style-type: none;
+}
+
+h1 {
+	font-family: Comic Sans ms;
+	font-size: 30px;
+	cursor: pointer;
+	text-align: right;	
+}
